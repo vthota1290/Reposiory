@@ -59,7 +59,7 @@
                     <executions>
                         <execution>
                             <goals>
-                                <goal>clean00000000000000000000000000022222222222</goal>
+                                <goal>clean000000000000000000000000000222222222222222444</goal>
                             </goals>
                         </execution>
                     </executions>
